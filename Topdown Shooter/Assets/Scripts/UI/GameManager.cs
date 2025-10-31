@@ -26,6 +26,6 @@ public class GameManager : MonoBehaviour
     public void Quit()
     {
         Application.Quit();
-        Debug.Log("Quiiting the game...");
+        Debug.Log("Quitting the game...");
     }
 }
