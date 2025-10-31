@@ -4,7 +4,7 @@ using UnityEngine;
 public class Gun : MonoBehaviour
 {
     public WeaponInformation weaponInfo;
-    int currentAmmo;
+    public int currentAmmo;
     float fireRate;
     public TextMeshProUGUI ammoText;
 
